@@ -10,7 +10,7 @@ class CurrentSpider:
     url = "https://price.21food.cn/guoshu/shuiguo-p%s.html"
     page = {"1":30,"2":30,"3":30,"4":30,"5":30,"6":14}
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75"
+        "User-Agent": "请复制自己浏览器"
     }
 
     def get_Source(self, url):
