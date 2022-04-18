@@ -22,6 +22,7 @@ class Jiechu:
         driver = self.getDriver()
         driver.get(url)
         ID = driver.find_element_by_id("delipcode")
+        #验证码图片路径
         path = "D:\\机器学习\\Agricultural\\shangwu\\solve\\image\\"
         driver.save_screenshot(path + "01.png")
         time.sleep(2)
