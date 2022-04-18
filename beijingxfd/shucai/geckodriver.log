@@ -1,0 +1,580 @@
+1628316997577	geckodriver	INFO	Listening on 127.0.0.1:52585
+1628317000373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileyozRgA"
+*** You are running in headless mode.
+1628317001502	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileyozRgA\\search.json.mozlz4", (void 0)))
+1628317003241	Marionette	INFO	Listening on port 52594
+1628317003573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHnnv64"
+1628317103806	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHnnv64\\search.json.mozlz4", (void 0)))
+1628317106446	Marionette	INFO	Listening on port 52787
+1628317106538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628318028554	Marionette	INFO	Stopped listening on port 52787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4Tjizs"
+1628317160170	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4Tjizs\\search.json.mozlz4", (void 0)))
+1628317163445	Marionette	INFO	Listening on port 52991
+1628317163908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628318027686	Marionette	INFO	Stopped listening on port 52991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileX6Ug14"
+1628317257354	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileX6Ug14\\search.json.mozlz4", (void 0)))
+1628317259886	Marionette	INFO	Listening on port 53127
+1628317260089	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628317282293	Marionette	INFO	Stopped listening on port 53127
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628317305207	geckodriver	INFO	Listening on 127.0.0.1:53208
+1628317308196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileglyE7V"
+1628317308592	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileglyE7V\\search.json.mozlz4", (void 0)))
+1628317311032	Marionette	INFO	Listening on port 53218
+1628317311338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628317328558	Marionette	INFO	Stopped listening on port 53218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628317328944	geckodriver	INFO	Listening on 127.0.0.1:53287
+1628317331984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefkMxEn"
+1628317332367	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefkMxEn\\search.json.mozlz4", (void 0)))
+1628317334951	Marionette	INFO	Listening on port 53296
+1628317335215	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628317336571	Marionette	INFO	Stopped listening on port 53296
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628317492826	geckodriver	INFO	Listening on 127.0.0.1:53500
+1628317495854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqpRIZF"
+1628317496247	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqpRIZF\\search.json.mozlz4", (void 0)))
+1628317498840	Marionette	INFO	Listening on port 53512
+1628317498982	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628318026697	Marionette	INFO	Stopped listening on port 53512
+NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile9E7mmW"
+*** You are running in headless mode.
+1628317588335	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile9E7mmW\\search.json.mozlz4", (void 0)))
+1628317589688	Marionette	INFO	Listening on port 53641
+1628317589962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628317611187	Marionette	INFO	Stopped listening on port 53641
+1628317867826	geckodriver	INFO	Listening on 127.0.0.1:53912
+1628317870853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileIdq5g6"
+*** You are running in headless mode.
+1628317871233	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileIdq5g6\\search.json.mozlz4", (void 0)))
+1628317896598	geckodriver	INFO	Listening on 127.0.0.1:53951
+1628317899674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMClJXA"
+*** You are running in headless mode.
+1628317900042	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMClJXA\\search.json.mozlz4", (void 0)))
+1628317901346	Marionette	INFO	Listening on port 53960
+1628317901776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628317973580	geckodriver	INFO	Listening on 127.0.0.1:54052
+1628317976626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezw5LvB"
+*** You are running in headless mode.
+1628317977010	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezw5LvB\\search.json.mozlz4", (void 0)))
+1628317978307	Marionette	INFO	Listening on port 54061
+1628317978705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628317986950	Marionette	INFO	Stopped listening on port 54061
+1628318006848	geckodriver	INFO	Listening on 127.0.0.1:54136
+1628318009873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZ8Rk6x"
+*** You are running in headless mode.
+1628318010255	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZ8Rk6x\\search.json.mozlz4", (void 0)))
+1628318011663	Marionette	INFO	Listening on port 54147
+1628318011922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318020041	Marionette	INFO	Stopped listening on port 54147
+1628318041355	geckodriver	INFO	Listening on 127.0.0.1:54284
+1628318044384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile7Llv7d"
+*** You are running in headless mode.
+1628318044756	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile7Llv7d\\search.json.mozlz4", (void 0)))
+1628318046417	Marionette	INFO	Listening on port 54297
+1628318046483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318054636	Marionette	INFO	Stopped listening on port 54297
+1628318067386	geckodriver	INFO	Listening on 127.0.0.1:54376
+1628318070469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee9Tj2R"
+*** You are running in headless mode.
+1628318070834	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee9Tj2R\\search.json.mozlz4", (void 0)))
+1628318072169	Marionette	INFO	Listening on port 54386
+1628318072515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318080546	Marionette	INFO	Stopped listening on port 54386
+1628318131481	geckodriver	INFO	Listening on 127.0.0.1:54482
+1628318134561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilel1hifZ"
+*** You are running in headless mode.
+1628318134930	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilel1hifZ\\search.json.mozlz4", (void 0)))
+1628318136298	Marionette	INFO	Listening on port 54498
+1628318136636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318144928	Marionette	INFO	Stopped listening on port 54498
+1628318218253	geckodriver	INFO	Listening on 127.0.0.1:54594
+1628318221308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAKzbyQ"
+*** You are running in headless mode.
+1628318221668	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAKzbyQ\\search.json.mozlz4", (void 0)))
+1628318223489	Marionette	INFO	Listening on port 54604
+1628318223510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318232755	Marionette	INFO	Stopped listening on port 54604
+1628318410368	geckodriver	INFO	Listening on 127.0.0.1:54814
+1628318413403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileX2TOYe"
+*** You are running in headless mode.
+1628318413770	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileX2TOYe\\search.json.mozlz4", (void 0)))
+1628318415080	Marionette	INFO	Listening on port 54824
+1628318415473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318423600	Marionette	INFO	Stopped listening on port 54824
+1628318462680	geckodriver	INFO	Listening on 127.0.0.1:54907
+1628318465747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZX3hYI"
+*** You are running in headless mode.
+1628318466132	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZX3hYI\\search.json.mozlz4", (void 0)))
+1628318467536	Marionette	INFO	Listening on port 54917
+1628318468513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318476956	Marionette	INFO	Stopped listening on port 54917
+1628318615193	geckodriver	INFO	Listening on 127.0.0.1:55130
+1628318618225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile79jpL1"
+*** You are running in headless mode.
+1628318618608	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile79jpL1\\search.json.mozlz4", (void 0)))
+1628318619902	Marionette	INFO	Listening on port 55141
+1628318620247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318629510	Marionette	INFO	Stopped listening on port 55141
+1628318833415	geckodriver	INFO	Listening on 127.0.0.1:55376
+1628318836456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePzSXYF"
+*** You are running in headless mode.
+1628318836841	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePzSXYF\\search.json.mozlz4", (void 0)))
+1628318838427	Marionette	INFO	Listening on port 55386
+1628318838494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318843460	Marionette	INFO	Stopped listening on port 55386
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628318886612	geckodriver	INFO	Listening on 127.0.0.1:55461
+1628318889642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileINejDt"
+*** You are running in headless mode.
+1628318890021	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileINejDt\\search.json.mozlz4", (void 0)))
+1628318891394	Marionette	INFO	Listening on port 55470
+1628318891685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628318897624	Marionette	INFO	Stopped listening on port 55470
+1628319210426	geckodriver	INFO	Listening on 127.0.0.1:55767
+1628319213477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileGxbCNo"
+*** You are running in headless mode.
+1628319213846	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileGxbCNo\\search.json.mozlz4", (void 0)))
+1628319215169	Marionette	INFO	Listening on port 55776
+1628319215523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628319224266	Marionette	INFO	Stopped listening on port 55776
+1628319379116	geckodriver	INFO	Listening on 127.0.0.1:56072
+1628319382147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilei9nTKb"
+*** You are running in headless mode.
+1628319382540	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilei9nTKb\\search.json.mozlz4", (void 0)))
+1628319383811	Marionette	INFO	Listening on port 56083
+1628319384175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628319392604	Marionette	INFO	Stopped listening on port 56083
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628319565268	geckodriver	INFO	Listening on 127.0.0.1:56289
+1628319568307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBgiHMF"
+*** You are running in headless mode.
+1628319568689	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBgiHMF\\search.json.mozlz4", (void 0)))
+1628319569971	Marionette	INFO	Listening on port 56299
+1628319570329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628319578510	Marionette	INFO	Stopped listening on port 56299
+1628319651218	geckodriver	INFO	Listening on 127.0.0.1:56402
+1628319654235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWXtMqo"
+*** You are running in headless mode.
+1628319654600	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWXtMqo\\search.json.mozlz4", (void 0)))
+1628319655909	Marionette	INFO	Listening on port 56412
+1628319656290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1628319664592	Marionette	INFO	Stopped listening on port 56412
+1631162761225	geckodriver	INFO	Listening on 127.0.0.1:51082
+1631162763971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee9EGxX"
+*** You are running in headless mode.
+1631162765172	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee9EGxX\\search.json.mozlz4", (void 0)))
+1631162766864	Marionette	INFO	Listening on port 51090
+1631162767108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631162776600	Marionette	INFO	Stopped listening on port 51090
+1631162875884	geckodriver	INFO	Listening on 127.0.0.1:50011
+1631162878902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileeIbgxf"
+*** You are running in headless mode.
+1631162879451	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileeIbgxf\\search.json.mozlz4", (void 0)))
+1631162880817	Marionette	INFO	Listening on port 50019
+1631162881624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631162891097	Marionette	INFO	Stopped listening on port 50019
+1631162939121	geckodriver	INFO	Listening on 127.0.0.1:49381
+1631162942062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefBne57"
+*** You are running in headless mode.
+1631162946776	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefBne57\\search.json.mozlz4", (void 0)))
+1631162948208	Marionette	INFO	Listening on port 49395
+1631162948299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631162957967	Marionette	INFO	Stopped listening on port 49395
+1631162994480	geckodriver	INFO	Listening on 127.0.0.1:49495
+1631162997471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFjDOMh"
+1631162997871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFjDOMh\\search.json.mozlz4", (void 0)))
+1631163000968	Marionette	INFO	Listening on port 49503
+1631163001112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163010524	Marionette	INFO	Stopped listening on port 49503
+1631163073184	geckodriver	INFO	Listening on 127.0.0.1:49562
+1631163076207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezjabBo"
+*** You are running in headless mode.
+1631163076606	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezjabBo\\search.json.mozlz4", (void 0)))
+1631163078020	Marionette	INFO	Listening on port 49570
+1631163078432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163088859	Marionette	INFO	Stopped listening on port 49570
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631163143819	geckodriver	INFO	Listening on 127.0.0.1:49620
+1631163146860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWHsZK1"
+*** You are running in headless mode.
+1631163147264	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWHsZK1\\search.json.mozlz4", (void 0)))
+1631163148640	Marionette	INFO	Listening on port 49628
+1631163148896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163158287	Marionette	INFO	Stopped listening on port 49628
+1631163185082	geckodriver	INFO	Listening on 127.0.0.1:49697
+1631163188111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile3mqipu"
+*** You are running in headless mode.
+1631163188507	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile3mqipu\\search.json.mozlz4", (void 0)))
+1631163189849	Marionette	INFO	Listening on port 49706
+1631163190137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163200012	Marionette	INFO	Stopped listening on port 49706
+1631163501743	geckodriver	INFO	Listening on 127.0.0.1:54384
+1631163504733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiDKW7U"
+*** You are running in headless mode.
+1631163505162	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiDKW7U\\search.json.mozlz4", (void 0)))
+1631163506504	Marionette	INFO	Listening on port 54392
+1631163506761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163515920	Marionette	INFO	Stopped listening on port 54392
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631163555002	geckodriver	INFO	Listening on 127.0.0.1:54525
+1631163558004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8Abcen"
+*** You are running in headless mode.
+1631163558449	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8Abcen\\search.json.mozlz4", (void 0)))
+1631163559848	Marionette	INFO	Listening on port 54539
+1631163560028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163569638	Marionette	INFO	Stopped listening on port 54539
+1631163610428	geckodriver	INFO	Listening on 127.0.0.1:54642
+1631163613387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJHkBy6"
+*** You are running in headless mode.
+1631163613783	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJHkBy6\\search.json.mozlz4", (void 0)))
+1631163615667	Marionette	INFO	Listening on port 54651
+1631163616012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163625378	Marionette	INFO	Stopped listening on port 54651
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631163672672	geckodriver	INFO	Listening on 127.0.0.1:54710
+1631163675691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYbPaWE"
+*** You are running in headless mode.
+1631163676086	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYbPaWE\\search.json.mozlz4", (void 0)))
+1631163677449	Marionette	INFO	Listening on port 54718
+1631163677725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163687128	Marionette	INFO	Stopped listening on port 54718
+1631163894722	geckodriver	INFO	Listening on 127.0.0.1:56830
+1631163897612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYkSHxM"
+*** You are running in headless mode.
+1631163898024	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYkSHxM\\search.json.mozlz4", (void 0)))
+1631163899454	Marionette	INFO	Listening on port 56838
+1631163899636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631163909331	Marionette	INFO	Stopped listening on port 56838
+1631163926724	geckodriver	INFO	Listening on 127.0.0.1:56893
+1631163929726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileX5N4Dg"
+*** You are running in headless mode.
+1631163930134	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+Exiting due to channel error.
+1631165036190	geckodriver	INFO	Listening on 127.0.0.1:56917
+1631165039218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilex0UkKI"
+*** You are running in headless mode.
+1631165039625	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilex0UkKI\\search.json.mozlz4", (void 0)))
+1631165041224	Marionette	INFO	Listening on port 56937
+1631165041252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165044985	Marionette	INFO	Stopped listening on port 56937
+1631165068332	geckodriver	INFO	Listening on 127.0.0.1:57037
+1631165071358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4nHQYv"
+*** You are running in headless mode.
+1631165071982	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4nHQYv\\search.json.mozlz4", (void 0)))
+1631165073603	Marionette	INFO	Listening on port 57045
+1631165073989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165076639	Marionette	INFO	Stopped listening on port 57045
+1631165100617	geckodriver	INFO	Listening on 127.0.0.1:57095
+1631165103642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVNSysX"
+*** You are running in headless mode.
+1631165104051	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVNSysX\\search.json.mozlz4", (void 0)))
+1631165105497	Marionette	INFO	Listening on port 57103
+1631165105672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165108479	Marionette	INFO	Stopped listening on port 57103
+1631165135356	geckodriver	INFO	Listening on 127.0.0.1:57148
+1631165138386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiCg7PJ"
+*** You are running in headless mode.
+1631165138785	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiCg7PJ\\search.json.mozlz4", (void 0)))
+1631165140152	Marionette	INFO	Listening on port 57156
+1631165140409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165143009	Marionette	INFO	Stopped listening on port 57156
+1631165271815	geckodriver	INFO	Listening on 127.0.0.1:59005
+1631165274845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBkAHRn"
+*** You are running in headless mode.
+1631165275260	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBkAHRn\\search.json.mozlz4", (void 0)))
+1631165276641	Marionette	INFO	Listening on port 59015
+1631165276886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165279808	Marionette	INFO	Stopped listening on port 59015
+1631165311983	geckodriver	INFO	Listening on 127.0.0.1:59060
+1631165314983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepePv2y"
+*** You are running in headless mode.
+1631165315389	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepePv2y\\search.json.mozlz4", (void 0)))
+1631165316792	Marionette	INFO	Listening on port 59070
+1631165317012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165320165	Marionette	INFO	Stopped listening on port 59070
+1631165340318	geckodriver	INFO	Listening on 127.0.0.1:59157
+1631165343300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUG4xut"
+*** You are running in headless mode.
+1631165343701	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUG4xut\\search.json.mozlz4", (void 0)))
+1631165345152	Marionette	INFO	Listening on port 59173
+1631165345325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165348257	Marionette	INFO	Stopped listening on port 59173
+1631165417936	geckodriver	INFO	Listening on 127.0.0.1:65302
+1631165420945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilesEaeOp"
+*** You are running in headless mode.
+1631165421699	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilesEaeOp\\search.json.mozlz4", (void 0)))
+1631165423724	Marionette	INFO	Listening on port 65310
+1631165424070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165426974	Marionette	INFO	Stopped listening on port 65310
+1631165451899	geckodriver	INFO	Listening on 127.0.0.1:65358
+1631165454937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileL5X5kg"
+*** You are running in headless mode.
+1631165455448	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileL5X5kg\\search.json.mozlz4", (void 0)))
+1631165457061	Marionette	INFO	Listening on port 65366
+1631165457564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165460285	Marionette	INFO	Stopped listening on port 65366
+1631165510779	geckodriver	INFO	Listening on 127.0.0.1:65411
+1631165513813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqKhj68"
+*** You are running in headless mode.
+1631165514204	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqKhj68\\search.json.mozlz4", (void 0)))
+1631165515616	Marionette	INFO	Listening on port 55793
+1631165515840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165631292	geckodriver	INFO	Listening on 127.0.0.1:53526
+1631165634310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQoeJOC"
+*** You are running in headless mode.
+1631165634783	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQoeJOC\\search.json.mozlz4", (void 0)))
+1631165636320	Marionette	INFO	Listening on port 53534
+1631165636345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165658617	Marionette	INFO	Stopped listening on port 53534
+1631165698828	geckodriver	INFO	Listening on 127.0.0.1:53668
+1631165701815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecJX6XZ"
+*** You are running in headless mode.
+1631165702254	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecJX6XZ\\search.json.mozlz4", (void 0)))
+1631165703905	Marionette	INFO	Listening on port 53676
+1631165703945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165739616	Marionette	INFO	Stopped listening on port 53676
+1631165756656	geckodriver	INFO	Listening on 127.0.0.1:59676
+1631165759682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileL186lR"
+1631165760102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileL186lR\\search.json.mozlz4", (void 0)))
+1631165762919	Marionette	INFO	Listening on port 59684
+1631165763308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165797539	Marionette	INFO	Stopped listening on port 59684
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631165829714	geckodriver	INFO	Listening on 127.0.0.1:62218
+1631165832706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilettIBwE"
+*** You are running in headless mode.
+1631165833115	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilettIBwE\\search.json.mozlz4", (void 0)))
+1631165834475	Marionette	INFO	Listening on port 62226
+1631165834730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1631165863712	Marionette	INFO	Stopped listening on port 62226
+1642295059925	geckodriver	INFO	Listening on 127.0.0.1:50844
+1642295062680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMyFzS9"
+*** You are running in headless mode.
+1642295063448	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMyFzS9\\search.json.mozlz4", (void 0)))
+1642295065142	Marionette	INFO	Listening on port 50852
+1642295065375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1642295080501	Marionette	INFO	Stopped listening on port 50852
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642295093914	geckodriver	INFO	Listening on 127.0.0.1:50934
+1642295096932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVemJdw"
+*** You are running in headless mode.
+1642295097347	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVemJdw\\search.json.mozlz4", (void 0)))
+1642295098742	Marionette	INFO	Listening on port 50949
+1642295098989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1642295114050	Marionette	INFO	Stopped listening on port 50949
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642295248101	geckodriver	INFO	Listening on 127.0.0.1:51328
+1642295251158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJYO3to"
+*** You are running in headless mode.
+1642295251530	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJYO3to\\search.json.mozlz4", (void 0)))
+1642295252931	Marionette	INFO	Listening on port 51341
+1642295253953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement
+1642303333199	geckodriver	INFO	Listening on 127.0.0.1:54295
+1642303336225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileD3n1rX"
+*** You are running in headless mode.
+1642303336621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileD3n1rX\\search.json.mozlz4", (void 0)))
+1642303338153	Marionette	INFO	Listening on port 54303
+1642303338320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.xinfadi.com.cn/js/lay/modules/layer.js, line 1150: unreachable code after return statement

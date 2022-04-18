@@ -1,0 +1,114 @@
+1614257374540	geckodriver	INFO	Listening on 127.0.0.1:51773
+1614257377525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileLz4Cx2"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257379468	Marionette	INFO	Listening on port 51784
+1614257379551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257379561	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTIvH7o"
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257440700	Marionette	INFO	Listening on port 51894
+1614257440828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257440863	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+1614257459286	Marionette	INFO	Stopped listening on port 51894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614257522744	geckodriver	INFO	Listening on 127.0.0.1:51995
+1614257525769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCASEo4"
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257528344	Marionette	INFO	Listening on port 52005
+1614257528407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257528443	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614270460456	Marionette	INFO	Stopped listening on port 52005
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0101 Firefox/85.0" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileySuTAH"
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257581380	Marionette	INFO	Listening on port 52099
+1614257581474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257581509	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1614257598581	Marionette	INFO	Stopped listening on port 52099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614257894809	geckodriver	INFO	Listening on 127.0.0.1:52411
+1614257897808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQlzY1c"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257900359	Marionette	INFO	Listening on port 52421
+1614257900438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257900448	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileV7XCEk"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257947249	Marionette	INFO	Listening on port 52515
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614257947660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614257947671	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+1614478627973	geckodriver	INFO	Listening on 127.0.0.1:55192
+1614478630979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileoiS0vm"
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614478634493	Marionette	INFO	Listening on port 55200
+1614478634702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614478634713	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shucai-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+[Child 3704, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 3704, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1614478652610	Marionette	INFO	Stopped listening on port 55200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

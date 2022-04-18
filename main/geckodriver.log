@@ -1,0 +1,70 @@
+1615040106369	geckodriver	INFO	Listening on 127.0.0.1:59101
+1615040109165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepsZTWR"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615040112274	Marionette	INFO	Listening on port 59109
+1615040112328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1615040137937	Marionette	INFO	Stopped listening on port 59109
+1615040144483	geckodriver	INFO	Listening on 127.0.0.1:59202
+1615040147513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilend0SYy"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615040149185	Marionette	INFO	Listening on port 59210
+1615040149537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1615040171111	Marionette	INFO	Stopped listening on port 59210
+1615040197129	geckodriver	INFO	Listening on 127.0.0.1:59300
+1615040200156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilep191vp"
+*** You are running in headless mode.
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615040201763	Marionette	INFO	Listening on port 59308
+1615040202182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1615040223122	Marionette	INFO	Stopped listening on port 59308
+1623136625065	geckodriver	INFO	Listening on 127.0.0.1:53078
+1623136628049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee370Du"
+*** You are running in headless mode.
+1623136628574	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623136630044	Marionette	INFO	Listening on port 53088
+1623136630092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136658030	geckodriver	INFO	Listening on 127.0.0.1:53140
+1623136661032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilesWJxbr"
+*** You are running in headless mode.
+1623136661439	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623136662745	Marionette	INFO	Listening on port 53149
+1623136663306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://price.21food.cn/guoshu/shuiguo-p1.html, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shuiguo-p1.html, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1623136685878	Marionette	INFO	Stopped listening on port 53149
+1623136703507	geckodriver	INFO	Listening on 127.0.0.1:53260
+1623136706513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" "--no-sandbox" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFoh700"
+*** You are running in headless mode.
+1623136706911	Marionette	INFO	Marionette enabled
+ConvertWinError received an unrecognized WinError: 0x7b
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623136708263	Marionette	INFO	Listening on port 53269
+1623136708567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 274: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/js/lightbox.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://price.21food.cn/guoshu/shuiguo/, line 47: TypeError: document.getElementById(...) is null
+JavaScript error: https://price.21food.cn/resources/js/jquery.cookie.js line 1 > eval, line 1: TypeError: $(...).on is not a function
+1623136730367	Marionette	INFO	Stopped listening on port 53269
