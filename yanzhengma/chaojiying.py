@@ -47,7 +47,7 @@ class Chaojiying_Client(object):
 
 if __name__ == '__main__':
     # 用户中心>>软件ID 生成一个替换 96001
-	chaojiying = Chaojiying_Client('20340869670126', '647356ybf', '912479')
+	chaojiying = Chaojiying_Client('账号', '密码', '912479')
     # 本地图片文件路径 来替换 a.jpg 有时WIN系统须要//
 	im = open('image\\a.jpg', 'rb').read()
     # 1902 验证码类型  官方网站>>价格体系 3.4+版 print 后要加()
